@@ -3,9 +3,6 @@ import Project from "../components/UI/Project";
 
 const projects = [
 
-  // {
-  //   name: "Projects"
-  // },
   {
     name: "Animals-R-Us Social Media App",
     urlName: "Animals-R-Us",
