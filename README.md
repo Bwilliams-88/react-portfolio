@@ -10,8 +10,10 @@ This assignment tasked me with building a portfolio using REACT to help set myse
 
 ## Screenshots
 
+![Alt text](image.png)
+
 ## Links
 
 [Github](https://github.com/Bwilliams-88/react-portfolio)
 
-[Nelify]()
+[Netlify](https://main--brandons-react-portfolio.netlify.app/)
