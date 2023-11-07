@@ -44,7 +44,6 @@ const projects = [
 export default function Portfolio() {
     return (
       <div>
-        <h1>Portfolio</h1>
           {projects.map((project) => (
           <Project project={project} />
           ))}

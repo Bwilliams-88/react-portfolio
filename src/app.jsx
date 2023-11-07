@@ -2,6 +2,7 @@
 import { Outlet } from 'react-router-dom';
 import Nav from './components/NavTabs';
 import Header from './components/UI/Header';
+import Footer from './components/UI/Footer';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <main className="mx-3">
         <Outlet />
       </main>
+      <Footer />
     </>
   );
 }

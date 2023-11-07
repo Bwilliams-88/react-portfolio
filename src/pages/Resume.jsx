@@ -1,10 +1,9 @@
-export default function Resume() {
+import Resume from '../components/Profiencies'
+
+export default function myResume() {
     return (
-      <div>
-        <h1>Resume</h1>
-        <p>
-          {/* Insert Resume */}
-        </p>
+      <div className='res'>
+        <Resume />
       </div>
     );
   }
