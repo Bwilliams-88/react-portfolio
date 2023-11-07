@@ -1,13 +1,15 @@
-/* .header {
-    background: #f9b713;
-    height: 200px;
+.header {
+    border-style: solid;
+    border-radius: 8px;
+    background: rgb(19, 165, 249);
+    height: 150px;
   }
   
   .header h1 {
     margin: 0;
-    padding-top: 75px;
+    padding-top: 45px;
     text-align: center;
     color: white;
     font-size: 3rem;
   }
-   */
+  

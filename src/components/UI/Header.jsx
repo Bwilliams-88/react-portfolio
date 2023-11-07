@@ -3,7 +3,8 @@ import '../styles/Header.css';
 function Header() {
   return (
     <header className="header">
-      <h1></h1>
+      <h1>My React Portfolio</h1>
+
     </header>
   );
 }
