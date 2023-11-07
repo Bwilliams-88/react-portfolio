@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-// import '../styles/PortfolioStyles.css';
 
        export default function Project(props) {   
             console.log(props);
