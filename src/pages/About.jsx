@@ -5,7 +5,7 @@ export default function About() {
       <div>
         <h1>Brandon Williams</h1>
         <p>
-          <img width="125px" height="125px" src='../../public/assets/about-me.jpg' className='img'></img>
+          <img width="125px" height="125px" src='/assets/about-me.jpg' className='img'></img>
           <br></br>
           <br></br>
           My name is Brandon Williams, I was born and raised in Lawton, OK; at the age of 21 I joined the United States Air Force as an Aerospace Maintainer, or Aircraft Mechanic.
