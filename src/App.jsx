@@ -3,8 +3,9 @@ import { Outlet } from 'react-router-dom';
 import Nav from './components/NavTabs';
 import Header from './components/UI/Header';
 import Footer from './components/UI/Footer';
+import "./components/styles/input.css";
 
-function App() {
+export default function App() {
   return (
     <>
       <Nav />
@@ -16,5 +17,3 @@ function App() {
     </>
   );
 }
-
-export default App;

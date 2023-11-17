@@ -1,4 +1,4 @@
-  .footer {
+  .footer { 
     border-style: solid;
     border-radius: 8px;
     background: rgb(19, 165, 249);
@@ -6,6 +6,7 @@
   }
   
   .footer li {
+    font-family:'Times New Roman', Times, serif ;
     display: flex;
     justify-content: space-between;
     text-decoration: none;
