@@ -3,6 +3,7 @@
     border-radius: 8px;
     margin-top: 10px;
     margin-right: 10px;
+    margin-bottom: 270px;
 }
 
 .name {
@@ -43,6 +44,8 @@
 
 
 h1 {
+    margin-bottom: 90px;
+    margin-top: 50px;
     margin-left: -45px;
     text-align: center;
     font-family:'Times New Roman', Times, serif

@@ -3,8 +3,8 @@ import '../components/styles/AboutStyle.css';
 export default function About() {
     return (
       <div>
-        <h1>Brandon Williams</h1>
-        <p>
+        <h1 className='about-name'>Brandon Williams</h1>
+        <p className="about-para">
           <img width="125px" height="125px" src='/assets/about-me.jpg' className='img'></img>
           <br></br>
           <br></br>

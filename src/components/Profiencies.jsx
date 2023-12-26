@@ -2,7 +2,7 @@
 import React from 'react'
 
 const Resume = () => {
-    const resumeLink = '../public/assets/Bwilliams_Resume.pdf';
+    const resumeLink = '../dist/assets/Bwilliams_Resume.pdf';
 
     const developerProficiencies = [
         'Programming Languages: JavaScript, REACT',

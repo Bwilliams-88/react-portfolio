@@ -4,6 +4,16 @@
     margin-right: auto;
 }
 
+.about-name {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about-para {
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    padding-bottom: 237px;
+}
+
 h1 {
     display: block;
     margin-left: auto;
